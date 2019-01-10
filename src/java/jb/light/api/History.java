@@ -8,4 +8,6 @@ package jb.light.api;
  *      -   All APIs translated to English
  *      -   Settings communication changed to JSON
  *      -   Requires package jb.light.support
+ * Version 1.0.1 - 10-01-2019
+ *      -   Bug in SettingR removed (getJSONObject replaced by optJSONObject)
  */

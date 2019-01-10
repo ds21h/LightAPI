@@ -113,7 +113,7 @@ public class SettingR {
                     break;
             }
         }
-        lPartRequest = lRequest.getJSONObject(Setting.cSensor);
+        lPartRequest = lRequest.optJSONObject(Setting.cSensor);
         if (lPartRequest != null) {
             lResult = sProcessSensor(lPartRequest, lSetting);
             switch (lResult) {
@@ -131,7 +131,7 @@ public class SettingR {
                     break;
             }
         }
-        lPartRequest = lRequest.getJSONObject(Setting.cLightOff);
+        lPartRequest = lRequest.optJSONObject(Setting.cLightOff);
         if (lPartRequest != null) {
             lPartRequest = lRequest.getJSONObject(Setting.cLightOff);
             lResult = sProcessLightsOff(lPartRequest, lSetting);
