@@ -9,13 +9,17 @@ This repository is the successor of repository LightAPI---Old
 
 History:
 
+Version 1.1 - 07-06-2021
+ - Uses upgraded LightSupport.jar (Version 1.1)
+ - Deleted obsolete Setting updates. 
+
 Version 1.0.1 - 10-01-2019
-  -   Bug in SettingR removed (getJSONObject replaced by optJSONObject)
+ - Bug in SettingR removed (getJSONObject replaced by optJSONObject)
 
 Version 1.0 - 09-12-2018
-  -   Created from jb.licht.api version 2.0, not compatible with it!
-  -   Translated to English
-  -   URI also changed to English
-  -   All APIs translated to English
-  -   Settings communication changed to JSON
-  -   Requires package jb.light.support
+ - Created from jb.licht.api version 2.0, not compatible with it!
+ - Translated to English
+ - URI also changed to English
+ - All APIs translated to English
+ - Settings communication changed to JSON
+ - Requires package jb.light.support
