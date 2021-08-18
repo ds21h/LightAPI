@@ -244,26 +244,6 @@ public class SettingR {
             }
         } catch (JSONException pExc) {
         }
-//        try {
-//            lValue = pSensor.getInt(Setting.cTreshold);
-//            lResult = pSetting.xSensorTreshold(lValue);
-//            if (lResult == Setting.cResultOK) {
-//                lNumberOK++;
-//            } else {
-//                lNumberNOK++;
-//            }
-//        } catch (JSONException pExc) {
-//        }
-//        try {
-//            lValue = pSensor.getInt(Setting.cMax);
-//            lResult = pSetting.xMaxSensor(lValue);
-//            if (lResult == Setting.cResultOK) {
-//                lNumberOK++;
-//            } else {
-//                lNumberNOK++;
-//            }
-//        } catch (JSONException pExc) {
-//        }
         try {
             lValue = pSensor.getInt(Setting.cInterval);
             lResult = pSetting.xPeriodSec(lValue);

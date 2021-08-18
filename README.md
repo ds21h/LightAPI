@@ -9,7 +9,11 @@ This repository is the successor of repository LightAPI---Old
 
 History:
 
-Version 1.1 - 07-06-2021
+Version 1.1.1 - 18-08-2021
+ - Recompiled with LightSupport version 1.1.1
+ - Deleted old commented-out code
+
+Version 1.1 - 28-06-2021
  - Uses upgraded LightSupport.jar (Version 1.1)
  - Deleted obsolete Setting updates. 
 

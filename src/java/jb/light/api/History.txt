@@ -9,9 +9,12 @@ Version 1.0 - 09-12-2018
  - Requires package jb.light.support
 
 Version 1.0.1 - 10-01-2019
- - Bug in SettingR removed (getJSONObject replaced by optJSONObject)
+ - Bug in SettingR removed (getJSONObject replaced with optJSONObject)
 
-Version 1.1 - 07-06-2021
+Version 1.1 - 28-06-2021
  - Uses upgraded LightSupport.jar (Version 1.1)
  - Deleted obsolete Setting updates. 
 
+Version 1.1.1 - 18-08-2021
+ - Recompiled with LightSupport version 1.1.1
+ - Deleted old commented-out code
