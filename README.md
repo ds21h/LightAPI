@@ -1,6 +1,6 @@
 # LightAPI
 
-This module exposes the REST API of the Lights application. It runs as a servlet in a webserver (TomCat) on the same server as LightSwitch.
+This module exposes the REST API of the Lights application. It runs as a servlet in a webserver (TomEE) on the same server as LightSwitch.
 For an overview please see repository Lights.
 
 The project structure is that of NetBeans 12.4/Maven.
