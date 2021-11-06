@@ -24,3 +24,6 @@ Version 1.2 - 12-09-2021
  - Java at version 11 for deployment on Raspbian
  - Must be deployed on TomEE instead of plain TomCat
 
+Version 1.2.1 - 06-11-2021
+ - Recompiled with LightSupport version 1.2.1
+

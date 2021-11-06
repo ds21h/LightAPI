@@ -9,6 +9,9 @@ This repository is the successor of repository LightAPI---Old
 
 History:
 
+Version 1.2.1 - 06-11-2021
+ - Recompiled with LightSupport version 1.2.1
+
 Version 1.2 - 12-09-2021
  - Upgraded to Netbeans 12.4/Maven/JDK 15/Java EE 8
  - Java at version 11 for deployment on Raspbian
